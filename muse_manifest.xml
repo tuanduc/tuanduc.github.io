@@ -1,0 +1,153 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tuanduc.github.io" resolutions="1x" timestamp="1521121551616">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="390665694" ref="index"/>
+    <file name="nomq_index.css" crc="4065786503" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="resume-uxui-design-duc-nguyen.pdf" crc="3852184552" seo="true" mt="1521119812000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4110350997" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="benjamin-hung-340384-unsplash.jpg" crc="202264308" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frame 2-crop-u3336.jpg" crc="4112447680" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frame 3-crop-u432.jpg" crc="464798190" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard (1)-crop-u3183.jpg" crc="25664152" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image_preview (1)-crop-u3696.jpg" crc="205971193" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2018-03-13 192513-crop-u3881.jpg" crc="4200085323" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2018-03-13 193049-crop-u3936.jpg" crc="3885498427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard (2)-crop-u4170.jpg" crc="175533094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="showcasesss-crop-u4111.jpg" crc="497176567" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2018-03-13 194154-crop-u4373.jpg" crc="4080414840" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2018-03-14 151152-crop-u6285.jpg" crc="3852692995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="003-dribbble.svg" crc="189529871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="003-dribbble_poster_.png" crc="3854717054" ref="index"/>
+    <file name="002-behance.svg" crc="4005224309" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="002-behance_poster_.png" crc="3845716899" ref="index"/>
+    <file name="001-medium-size.svg" crc="28702000" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="001-medium-size_poster_.png" crc="4111455698" ref="index"/>
+    <file name="005-instagram.svg" crc="331380390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="005-instagram_poster_.png" crc="3859942091" ref="index"/>
+    <file name="artboard copy.png" crc="3945629682" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard.png" crc="1341434" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="benjamin-hung-340384-unsplash-u4936-fr.jpg" crc="4019047076" ref="index"/>
+    <file name="frame 2-crop-u33362.jpg" crc="3999468599" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frame 3-crop-u4322.jpg" crc="484688668" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard (1)-crop-u31832.jpg" crc="3797607222" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2018-03-13 192513-crop-u38812.jpg" crc="3887925725" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard (2)-crop-u41702.jpg" crc="356524914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image_preview (1)-crop-u36962.jpg" crc="354738579" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2018-03-13 193049-crop-u39362.jpg" crc="69696892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="showcasesss-crop-u41112.jpg" crc="318115914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2018-03-13 194154-crop-u43732.jpg" crc="3956743184" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2018-03-14 151152-crop-u62852.jpg" crc="345878451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frame 2-crop-u33363.jpg" crc="126545534" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="frame 3-crop-u4323.jpg" crc="213883237" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard (1)-crop-u31833.jpg" crc="327879698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image_preview (1)-crop-u36963.jpg" crc="4142730341" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2018-03-13 192513-crop-u38813.jpg" crc="338840407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2018-03-13 193049-crop-u39363.jpg" crc="273685064" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="artboard (2)-crop-u41703.jpg" crc="3878976381" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="showcasesss-crop-u41113.jpg" crc="412799524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2018-03-13 194154-crop-u43733.jpg" crc="86118764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screenshot 2018-03-14 151152-crop-u62853.jpg" crc="4086630174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="172391447" seo="true" mt="1521121494460" redirect="true"/>
+</manifest>
