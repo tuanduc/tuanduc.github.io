@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tuanduc.github.io" resolutions="1x" timestamp="1521122014288">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="tuanduc.github.io" resolutions="1x" timestamp="1521187424576">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="372732058" ref="index"/>
+    <file name="index.css" crc="3778031630" ref="index"/>
     <file name="nomq_index.css" crc="350459256" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="resume-uxui-design-duc-nguyen.pdf" crc="3852184552" seo="true" mt="1521119812000"/>
+    <file name="resume-uxui-design-duc-nguyen.pdf" crc="4105027766" seo="true" mt="1521187382000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -149,5 +149,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3943442052" seo="true" mt="1521121985804" redirect="true"/>
+  <file name="index.html" crc="14928309" seo="true" mt="1521187290624" redirect="true"/>
 </manifest>
